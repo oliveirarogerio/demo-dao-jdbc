@@ -1,1 +1,1 @@
-# demo-dao-jdbc
+# Learning JDBC and DAO
